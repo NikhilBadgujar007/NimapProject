@@ -1,0 +1,4 @@
+# node_modules
+# # Keep environment variables out of version control
+# .env
+DATABASE_URL = "mysql://sa:sa123localhost:3306/productcategorydb"
